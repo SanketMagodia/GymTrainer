@@ -1,7 +1,6 @@
 mediapipe==0.10.9
 numpy==1.26.2
-opencv-contrib-python==4.8.1.78
-opencv-python==4.8.1.78
+opencv-python-headless
 pandas==2.1.4
 Pillow==10.1.0
 requests==2.31.0
